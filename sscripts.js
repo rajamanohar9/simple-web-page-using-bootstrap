@@ -1,0 +1,10 @@
+$(document).ready(function(){
+    $('#login').click(function(){
+        $('#loginModal').modal('show');
+    });
+});
+$(document).ready(function(){
+    $('#reserve').click(function(){
+        $('#reservetable').modal('show');
+    });
+});
