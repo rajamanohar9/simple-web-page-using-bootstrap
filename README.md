@@ -11,8 +11,10 @@ except set the entry point to index.html
 This should create a package.json file in the folder whicg you have created at step1.
 
 step4:-Now use this cammand "npm install lite-server --save-dev " and click enter
+step5:-Now use this cammand "pm install bootstrap@4.0.0 --save" and click enter
+step6:-Now use this cammand "npm install jquery@3.3.1 popper.js@1.12.9 --save" and click enter
 
-step 5:- Next, open package.json in your editor and modify it as shown below. Note the addition of two lines, line 7 and line 9
+step 7:- Next, open package.json in your editor and modify it as shown below. Note the addition of two lines, line 7 and line 9
 {
   "name": "git-test",
   "version": "1.0.0",
@@ -36,7 +38,7 @@ step 5:- Next, open package.json in your editor and modify it as shown below. No
 }
 
 
-step 6:- now use this cammand " npm start " in command prompt.
+step 8:- now use this cammand " npm start " in command prompt.
 This should open your index.html page in your default browser.
 
 
