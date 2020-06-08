@@ -12,7 +12,7 @@ This should create a package.json file in the folder whicg you have created at s
 
 step4:-Now use this cammand "npm install lite-server --save-dev " and click enter
 
-step5:-Now use this cammand "pm install bootstrap@4.0.0 --save" and click enter
+step5:-Now use this cammand "npm install bootstrap@4.0.0 --save" and click enter
 
 step6:-Now use this cammand "npm install jquery@3.3.1 popper.js@1.12.9 --save" and click enter
 
